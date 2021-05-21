@@ -1,1 +1,1 @@
-# c36-class-project
+# C36-teacher-reference
